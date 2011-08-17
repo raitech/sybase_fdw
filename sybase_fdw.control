@@ -1,0 +1,5 @@
+# sybase_fdw extension
+comment = 'foreign-data wrapper for Sybase'
+default_version = '1.0'
+module_pathname = '$libdir/sybase_fdw'
+relocatable = true
